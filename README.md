@@ -9,3 +9,9 @@ This repository contains the fune-tune and evaluation code for our paper [Senten
 bash src/download.sh
 poetry run python src/prepare.py
 ```
+
+## Fine-tune model
+
+```bash
+bash run.sh
+```
